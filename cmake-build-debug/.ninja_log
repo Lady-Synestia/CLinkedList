@@ -1,0 +1,8 @@
+# ninja log v6
+1	53	7561086790323971	CMakeFiles/CLinkedList.dir/main.c.obj	c10b4ede7920b610
+54	142	7561086790849732	CLinkedList.exe	4b7d3e8ff94a5bb5
+3	62	7561089717651640	CMakeFiles/CLinkedList.dir/main.c.obj	c10b4ede7920b610
+5	84	7561089717676447	CMakeFiles/CLinkedList.dir/linkedlist.c.obj	c8ecf610714768ba
+85	190	7561089718470032	CLinkedList.exe	aa02f7ed3e5596a5
+2	61	7561092886371768	CMakeFiles/CLinkedList.dir/main.c.obj	c10b4ede7920b610
+62	160	7561092886966967	CLinkedList.exe	aa02f7ed3e5596a5
